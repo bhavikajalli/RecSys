@@ -8,7 +8,7 @@ I am using the MovieLens 100k Dataset at https://grouplens.org/datasets/movielen
 I have created three dataframes from the dataset. The Ratings dataframe contains the users and their ratings for the movies. The users dataframe contains user demographic information and the Movies dataframe contains the item descriptions.
 
 ### Content Based Reommendation
-Using the Movies dataframe I will see which movie is the closest to the others.(Still needs to be implemented)
+Using the Movies dataframe I will calculate which movie is the closest to the others.(Still needs to be implemented)
 
 ### Item Based Collaborative Filtering
 In item based collaborative filtering similarities between items are calculated from rating-matrix. And based upon these similarities, user’s preference for an item not rated by him/her is calculated. I have used the Ratings dataframe and pivoted in the following way.
