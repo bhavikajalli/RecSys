@@ -19,6 +19,6 @@ I have then calculated the cosine similarity scores and obtained the similaritie
 
 Here is a small snapshot of top 10 recommendations for the first five movies according to the recommender.
 
-<a href="url"><img src="https://github.com/bhavikajalli/RecSys/tree/master/images/recommendations_10.png" align="center" width="480" ></a>
+<a href="url"><img src="https://github.com/bhavikajalli/RecSys/blob/master/images/recommendations_10.png" align="center" width="480" ></a>
 
 ### User Based Collaborative Filtering
