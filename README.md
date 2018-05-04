@@ -17,4 +17,8 @@ movies_train = ratings_train.pivot(index='user_id', columns='movie_id', values='
 ```
 I have then calculated the cosine similarity scores and obtained the similarities between items’ consumption histories. Now by looking for the closest neighbours, the next movies can be recommended.
 
+Here is a small snapshot of top 10 recommendations for the first five movies according to the recommender.
+
+<a href="url"><img src="https://github.com/bhavikajalli/RecSys/blob/master/Images/recommendations_10.png" align="center" width="480" ></a>
+
 ### User Based Collaborative Filtering
